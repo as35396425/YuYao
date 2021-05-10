@@ -28,7 +28,7 @@ dimension 維度
 
 numpy 專長在於處理多維度的資料
 
-[課前複習](https://www.notion.so/numpy-4acd2a515ca54bb48ca532e24a719b62)
+[課前複習](課前複習_0.md)
 
 資料科學: 
 
