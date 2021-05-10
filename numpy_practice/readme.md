@@ -38,4 +38,4 @@ numpy 專長在於處理多維度的資料
 
 傅立葉轉換 硬體方面
 
-[加密程式的筆記](YuYao/numpy_practice/20210507上課內容(numpy) 537544e269c34d4d95e4437e7ee354ce/加密程式的筆記 ccb454a4e44a452cb3d78096a1a5e3b5.md)
+[加密程式的筆記](YuYao/numpy_practice/20210507上課內容(numpy) 537544e269c34d4d95e4437e7ee354ce/加密程式的筆記ccb454a4e44a452cb3d78096a1a5e3b5.md)
