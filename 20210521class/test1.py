@@ -1,6 +1,6 @@
 from PIL import Image
 from PIL import ImageFilter
-
+'''
 img1 = Image.open("IMG.jpg")
 img2 = img1.filter(ImageFilter.BLUR) #針對影像作模糊化
 img2.save("out1.jpg")
@@ -37,3 +37,6 @@ img_sharp.save("out9.jpg")
 
 
 #關於影像卷積(Convolution)
+'''
+l=[]
+print(type(l))
