@@ -12,7 +12,7 @@ n=np.array(n)
 In=Image.fromarray(n)
 plt.imshow(In)
 plt.show()
-print(n[1][2])
+print(n[1][2])  
 t=[[0]*3]*3
 t=np.array(t) #需先變成np
 for i in range(len(n)):
